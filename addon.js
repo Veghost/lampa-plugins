@@ -1,0 +1,6 @@
+import('https://and7ey.github.io/lampa/kinopoisk.js')
+import('http://cub.watch/plugin/etor')
+import('https://and7ey.github.io/lampa/dlna.js')
+import('https://and7ey.github.io/lampa/etor.js')
+import('https://and7ey.github.io/lampa/trailer.js')
+import('https://and7ey.github.io/lampa/iptv.js')
